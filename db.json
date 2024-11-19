@@ -1,0 +1,20 @@
+{
+    "harmonizacoes": [
+      { "id": 1, "nome": "Vinho Tinto", "descricao": "Ideal com carnes vermelhas e queijos fortes." },
+      { "id": 2, "nome": "Cerveja IPA", "descricao": "Harmoniza bem com pratos apimentados." },
+      { "id": 3, "nome": "Whisky", "descricao": "Combina com charcutaria e chocolates amargos." },
+      { "id": 4, "nome": "Cachaça", "descricao": "Acompanha frutas cítricas e sobremesas tropicais." },
+      { "id": 5, "nome": "Champagne", "descricao": "Ótimo com frutos do mar e sobremesas leves." },
+      { "id": 6, "nome": "Vinho Branco", "descricao": "Combina com peixes e queijos leves." },
+      { "id": 7, "nome": "Espumante Rosé", "descricao": "Harmoniza com carnes brancas e saladas." },
+      { "id": 8, "nome": "Porto", "descricao": "Perfeito com sobremesas à base de chocolate." },
+      { "id": 9, "nome": "Gin", "descricao": "Excelente com pratos cítricos e aperitivos." },
+      { "id": 10, "nome": "Rum", "descricao": "Combina com sobremesas doces e pratos caribenhos." },
+      { "id": 11, "nome": "Vodka", "descricao": "Versátil, combina com quase tudo." },
+      { "id": 12, "nome": "Tequila", "descricao": "Harmoniza bem com pratos mexicanos e salgados." },
+      { "id": 13, "nome": "Cerveja Stout", "descricao": "Ideal com sobremesas de café e chocolate." },
+      { "id": 14, "nome": "Malbec", "descricao": "Ótimo com carnes grelhadas." },
+      { "id": 15, "nome": "Rosé Seco", "descricao": "Perfeito com massas e frutos do mar." }
+    ]
+  }
+  
